@@ -1,0 +1,27 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dagboll.github.io" resolutions="1x" timestamp="1536932462003">
+  <folder name="images">
+    <file name="u207-4.png" crc="340814751" ref="phone>index"/>
+    <file name="u210-6.png" crc="4130193476" ref="phone>index"/>
+    <file name="u213-4.png" crc="3856366023" ref="index"/>
+    <file name="u216-6.png" crc="520613120" ref="index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="4090060319" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4154276890" seo="true" mt="1536932448627" redirect="true"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="91187491" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>index"/>
+    <file name="museutils.js" crc="340535759" ref="index:phone>index"/>
+    <file name="whatinput.js" crc="86476730" ref="index:phone>index"/>
+    <file name="museconfig.js" crc="310584261" ref="index:phone>index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:phone>index"/>
+    <file name="require.js" crc="7928878" ref="index:phone>index"/>
+  </folder>
+  <file name="index.html" crc="3980361957" seo="true" mt="1536932381241" redirect="true"/>
+</manifest>
