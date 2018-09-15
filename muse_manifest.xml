@@ -1,6 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dagboll.github.io" resolutions="1x,2x" timestamp="1536997574619">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dagboll.github.io" resolutions="1x,2x" timestamp="1536998344266">
   <folder name="assets">
     <file name="morse.wav" crc="38907179" seo="true" mt="1536997130000"/>
+    <file name="dagboll.wav" crc="38907179" seo="true" mt="1536997130000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="464583618"/>
@@ -17,7 +18,6 @@
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="phone>index"/>
     <file name="download.png" crc="336767736" seo="true" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="download (1)86x86.png" crc="3908085644" seo="true" ref="phone>index">
@@ -51,5 +51,5 @@
     </folder>
     <file name="index.html" crc="266555170" seo="true" mt="1536944707690" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3806715370" seo="true" mt="1536997456888" redirect="true"/>
+  <file name="index.html" crc="3926272403" seo="true" mt="1536998334057" redirect="true"/>
 </manifest>
