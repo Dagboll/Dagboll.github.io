@@ -1,11 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dagboll.github.io" resolutions="1x,2x" timestamp="1536998475043">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dagboll.github.io" resolutions="1x,2x" timestamp="1537170589683">
   <folder name="assets">
     <file name="morse.wav" crc="38907179" seo="true" mt="1536997130000"/>
     <file name="dagboll.wav" crc="38907179" seo="true" mt="1536997130000"/>
+    <file name="dagboll.txt" crc="517159484" seo="true" mt="1537170051000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="464583618"/>
-    <file name="index.css" crc="3895043394" ref="index"/>
+    <file name="index.css" crc="241888358" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
@@ -18,6 +19,7 @@
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="phone>index"/>
     <file name="download.png" crc="336767736" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="download (1)86x86.png" crc="3908085644" seo="true" ref="phone>index">
@@ -47,9 +49,9 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="4210914166" ref="phone>index"/>
+      <file name="index.css" crc="3961017175" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4217698688" seo="true" mt="1536998461573" redirect="true"/>
+    <file name="index.html" crc="4212512734" seo="true" mt="1537170583154" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3926272403" seo="true" mt="1536998334057" redirect="true"/>
+  <file name="index.html" crc="470118507" seo="true" mt="1537170573216" redirect="true"/>
 </manifest>
